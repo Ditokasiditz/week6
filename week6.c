@@ -3,7 +3,7 @@
 
 int main(){
     int length = 0,i,count;
-    char text[20];
+    char text[40];
 
     scanf("%s",text);
     length = strlen(text);
