@@ -2,7 +2,7 @@
 #include<string.h>
 
 int main(){
-    char text[30],*p;
+    char text[40],*p;
     int i,count=0;
 	
 	printf("type your strig : ");
