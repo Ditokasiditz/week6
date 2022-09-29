@@ -4,7 +4,8 @@
 int main(){
     char text[30],*p;
     int i,count=0;
-
+	
+	printf("type your strig : ");
     scanf("%s",text);
     p=text;
 
