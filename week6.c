@@ -2,9 +2,10 @@
 #include<string.h>
 
 int main(){
-    int length = 0,i,count;
+    int length,i,count = 0;
     char text[40];
-
+	
+	printf("type your string : ");
     scanf("%s",text);
     length = strlen(text);
  
